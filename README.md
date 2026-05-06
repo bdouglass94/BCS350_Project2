@@ -46,12 +46,12 @@ quizApp is a PHP/MySQL web application where users can create accounts, take ran
 ---
 
 # How to Run / Host the Project Yourself
-
-1. Upload all project files to the hosting service `htdocs` folder.
-2. Create a MySQL database in InfinityFree.
-3. Import the `schema.sql` file into phpMyAdmin.
-4. Update `db.php` with your database credentials.
-5. Open the hosted URL in a browser.
+1. Create InfinityFree Account
+2. Upload all project files to the hosting service `htdocs` folder.
+3. Create a MySQL database in InfinityFree.
+4. Import the `schema.sql` file into phpMyAdmin.
+5. Update `db.php` with your database credentials.
+6. Open the hosted URL in a browser.
 
 ---
 
