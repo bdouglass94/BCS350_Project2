@@ -45,7 +45,7 @@ quizApp is a PHP/MySQL web application where users can create accounts, take ran
 
 ---
 
-# How to Run the Project
+# How to Run / Host the Project Yourself
 
 1. Upload all project files to the hosting service `htdocs` folder.
 2. Create a MySQL database in InfinityFree.
