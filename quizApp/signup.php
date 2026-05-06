@@ -70,6 +70,10 @@ if (
 <div class="container">
     <h1>Sign Up</h1>
 
+      <p class="warning">
+    This is a student project website. DO NOT USE real usernames / passwords you would normally use on other websites.
+</p>
+
     <?php if ($error): ?>
         <p class="error">
             <?= htmlspecialchars($error) ?>
