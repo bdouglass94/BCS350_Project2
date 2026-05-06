@@ -185,3 +185,12 @@ td {
     flex-wrap: wrap;
     margin-top: 20px;
 }
+
+.warning {
+    background: #78350f;
+    color: #fde68a;
+    padding: 12px;
+    border-radius: 10px;
+    margin-bottom: 16px;
+    border: 2px solid #facc15;
+}
